@@ -1,0 +1,8 @@
+name: pusher
+descript: a sample dart web project
+version: 1.0.0
+environment:
+  sdk: '>=2.0.0 <3.0.0'
+
+dependencies:
+  jaguar: ^2.4.36
