@@ -6,3 +6,10 @@ environment:
 
 dependencies:
   jaguar: ^2.4.36
+  jaguar_orm: ^2.2.6
+  jaguar_query_postgres: ^2.2.6
+
+dev_dependencies:
+  build_runner:
+  json_serializable: ^3.0.0
+  jaguar_orm_gen:
